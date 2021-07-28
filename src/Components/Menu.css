@@ -1,0 +1,8 @@
+.show-bgcolor{
+    background-color: #ebecec;
+    border-radius: 5px;
+}
+
+.show-bgcolor p{
+    color: black !important;
+}
